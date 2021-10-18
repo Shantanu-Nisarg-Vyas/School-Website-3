@@ -1,0 +1,22 @@
+#mynavbar {
+    display: inline;
+    text-decoration: none;
+    width: 100%;
+}
+
+marquee {
+    font-size: 50px;
+    background-color: aqua;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 150px;
+}
